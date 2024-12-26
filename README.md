@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anjali-codes-05
+- 👀 I’m interested in python programming, application development and ethical hacking.
+- 🌱 I’m currently learning c++ programming and python programming.
+- 😄 Pronouns: she/her
